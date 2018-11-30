@@ -1,0 +1,432 @@
+Register,key,local-authority-type,start-date,end-date,Name in ONS,URI
+local-authority-eng,WECA,COMB,2014-04-01,,Dummy_Data 1,https://local-authority-eng.register.gov.uk/records/WECA
+local-authority-eng,WSK,NMD,2019-04-01,,West Suffolk,https://local-authority-eng.register.gov.uk/records/WSK
+local-authority-eng,BPC,UA,2019-04-01,,"Bournemouth, Christchurch and Poole",https://local-authority-eng.register.gov.uk/records/BPC
+local-authority-eng,CPCA,COMB,2014-04-01,,Cambridgeshire and Peterborough Combined Authority,https://local-authority-eng.register.gov.uk/records/CPCA
+local-authority-eng,DST,UA,2019-04-01,,Dorset Council,https://local-authority-eng.register.gov.uk/records/DST
+local-authority-eng,ESK,NMD,2019-04-01,,East Suffolk,https://local-authority-eng.register.gov.uk/records/ESK
+local-authority-eng,SWT,NMD,2019-04-01,,Somerset West and Taunton,https://local-authority-eng.register.gov.uk/records/SWT
+local-authority-eng,HPL,UA,1905-06-18,,Hartlepool UA,https://local-authority-eng.register.gov.uk/records/HPL
+local-authority-eng,MDB,UA,1905-06-18,,Middlesbrough UA,https://local-authority-eng.register.gov.uk/records/MDB
+local-authority-eng,RCC,UA,1996-04-01,,Redcar and Cleveland UA,https://local-authority-eng.register.gov.uk/records/RCC
+local-authority-eng,STT,UA,1905-06-18,,Stockton-on-Tees UA,https://local-authority-eng.register.gov.uk/records/STT
+local-authority-eng,DAL,UA,1997-04-01,,Darlington UA,https://local-authority-eng.register.gov.uk/records/DAL
+local-authority-eng,HAL,UA,1998-04-01,,Halton UA,https://local-authority-eng.register.gov.uk/records/HAL
+local-authority-eng,WRT,UA,1905-06-20,,Warrington UA,https://local-authority-eng.register.gov.uk/records/WRT
+local-authority-eng,BBD,UA,1998-04-01,,Blackburn with Darwen UA,https://local-authority-eng.register.gov.uk/records/BBD
+local-authority-eng,BPL,UA,1905-06-20,,Blackpool UA,https://local-authority-eng.register.gov.uk/records/BPL
+local-authority-eng,KHL,UA,1996-04-01,,"Kingston upon Hull, City of UA",https://local-authority-eng.register.gov.uk/records/KHL
+local-authority-eng,ERY,UA,1996-04-01,,East Riding of Yorkshire UA,https://local-authority-eng.register.gov.uk/records/ERY
+local-authority-eng,NEL,UA,1996-04-01,,North East Lincolnshire UA,https://local-authority-eng.register.gov.uk/records/NEL
+local-authority-eng,NLN,UA,1996-04-01,,North Lincolnshire UA,https://local-authority-eng.register.gov.uk/records/NLN
+local-authority-eng,YOR,UA,1905-06-18,,York UA,https://local-authority-eng.register.gov.uk/records/YOR
+local-authority-eng,DER,UA,,,Derby UA,https://local-authority-eng.register.gov.uk/records/DER
+local-authority-eng,LCE,UA,1905-06-19,,Leicester UA,https://local-authority-eng.register.gov.uk/records/LCE
+local-authority-eng,RUT,UA,1997-04-01,,Rutland UA,https://local-authority-eng.register.gov.uk/records/RUT
+local-authority-eng,NGM,UA,1905-06-20,,Nottingham UA,https://local-authority-eng.register.gov.uk/records/NGM
+local-authority-eng,HEF,UA,1998-04-01,,"Herefordshire, County of UA",https://local-authority-eng.register.gov.uk/records/HEF
+local-authority-eng,TFW,UA,1905-06-20,,Telford and Wrekin UA,https://local-authority-eng.register.gov.uk/records/TFW
+local-authority-eng,STE,UA,1905-06-20,,Stoke-on-Trent UA,https://local-authority-eng.register.gov.uk/records/STE
+local-authority-eng,BAS,UA,1996-04-01,,Bath and North East Somerset UA,https://local-authority-eng.register.gov.uk/records/BAS
+local-authority-eng,BST,UA,1905-06-18,,"Bristol, City of UA",https://local-authority-eng.register.gov.uk/records/BST
+local-authority-eng,NSM,UA,1996-04-01,,North Somerset UA,https://local-authority-eng.register.gov.uk/records/NSM
+local-authority-eng,SGC,UA,1905-06-18,,South Gloucestershire UA,https://local-authority-eng.register.gov.uk/records/SGC
+local-authority-eng,PLY,UA,1998-04-01,,Plymouth UA,https://local-authority-eng.register.gov.uk/records/PLY
+local-authority-eng,TOB,UA,1905-06-20,,Torbay UA,https://local-authority-eng.register.gov.uk/records/TOB
+local-authority-eng,BMH,UA,1905-06-19,2019-03-31,Bournemouth UA,https://local-authority-eng.register.gov.uk/records/BMH
+local-authority-eng,POL,UA,1997-04-01,2019-03-31,Poole UA,https://local-authority-eng.register.gov.uk/records/POL
+local-authority-eng,SWD,UA,1905-06-20,,Swindon UA,https://local-authority-eng.register.gov.uk/records/SWD
+local-authority-eng,PTE,UA,1905-06-20,,Peterborough UA,https://local-authority-eng.register.gov.uk/records/PTE
+local-authority-eng,LUT,UA,1905-06-19,,Luton UA,https://local-authority-eng.register.gov.uk/records/LUT
+local-authority-eng,SOS,UA,1905-06-20,,Southend-on-Sea UA,https://local-authority-eng.register.gov.uk/records/SOS
+local-authority-eng,THR,UA,1905-06-20,,Thurrock UA,https://local-authority-eng.register.gov.uk/records/THR
+local-authority-eng,MDW,UA,1998-04-01,,Medway UA,https://local-authority-eng.register.gov.uk/records/MDW
+local-authority-eng,BRC,UA,1998-04-01,,Bracknell Forest UA,https://local-authority-eng.register.gov.uk/records/BRC
+local-authority-eng,WBK,UA,1905-06-20,,West Berkshire UA,https://local-authority-eng.register.gov.uk/records/WBK
+local-authority-eng,RDG,UA,1905-05-27,,Reading UA,https://local-authority-eng.register.gov.uk/records/RDG
+local-authority-eng,SLG,UA,1998-04-01,,Slough UA,https://local-authority-eng.register.gov.uk/records/SLG
+local-authority-eng,WNM,UA,1905-06-20,,Windsor and Maidenhead UA,https://local-authority-eng.register.gov.uk/records/WNM
+local-authority-eng,WOK,UA,1905-06-20,,Wokingham UA,https://local-authority-eng.register.gov.uk/records/WOK
+local-authority-eng,MIK,UA,1905-06-19,,Milton Keynes UA,https://local-authority-eng.register.gov.uk/records/MIK
+local-authority-eng,BNH,UA,1905-06-19,,Brighton and Hove UA,https://local-authority-eng.register.gov.uk/records/BNH
+local-authority-eng,POR,UA,1905-06-20,,Portsmouth UA,https://local-authority-eng.register.gov.uk/records/POR
+local-authority-eng,STH,UA,1905-06-19,,Southampton UA,https://local-authority-eng.register.gov.uk/records/STH
+local-authority-eng,IOW,UA,1905-06-17,,Isle of Wight UA,https://local-authority-eng.register.gov.uk/records/IOW
+local-authority-eng,DUR,UA,2009-04-01,,County Durham UA 4,https://local-authority-eng.register.gov.uk/records/DUR
+local-authority-eng,CHE,UA,2009-04-01,,Cheshire East UA 6,https://local-authority-eng.register.gov.uk/records/CHE
+local-authority-eng,CHW,UA,2009-04-01,,Cheshire West and Chester UA 7,https://local-authority-eng.register.gov.uk/records/CHW
+local-authority-eng,SHR,UA,2009-04-01,,Shropshire UA 8,https://local-authority-eng.register.gov.uk/records/SHR
+local-authority-eng,CON,UA,2009-04-01,,Cornwall UA 11,https://local-authority-eng.register.gov.uk/records/CON
+local-authority-eng,IOS,UA,1974-04-01,,Isles of Scilly UA 12,https://local-authority-eng.register.gov.uk/records/IOS
+local-authority-eng,WIL,UA,2009-04-01,,Wiltshire UA 13,https://local-authority-eng.register.gov.uk/records/WIL
+local-authority-eng,BDF,UA,2009-04-01,,Bedford UA 9,https://local-authority-eng.register.gov.uk/records/BDF
+local-authority-eng,CBF,UA,2009-04-01,,Central Bedfordshire UA 10,https://local-authority-eng.register.gov.uk/records/CBF
+local-authority-eng,NBL,UA,2009-04-01,,Northumberland UA 5,https://local-authority-eng.register.gov.uk/records/NBL
+local-authority-eng,AYL,NMD,,,Aylesbury Vale,https://local-authority-eng.register.gov.uk/records/AYL
+local-authority-eng,CHN,NMD,,,Chiltern,https://local-authority-eng.register.gov.uk/records/CHN
+local-authority-eng,SBU,NMD,,,South Bucks,https://local-authority-eng.register.gov.uk/records/SBU
+local-authority-eng,WYO,NMD,,,Wycombe,https://local-authority-eng.register.gov.uk/records/WYO
+local-authority-eng,CAB,NMD,,,Cambridge,https://local-authority-eng.register.gov.uk/records/CAB
+local-authority-eng,ECA,NMD,,,East Cambridgeshire,https://local-authority-eng.register.gov.uk/records/ECA
+local-authority-eng,FEN,NMD,,,Fenland,https://local-authority-eng.register.gov.uk/records/FEN
+local-authority-eng,HUN,NMD,,,Huntingdonshire,https://local-authority-eng.register.gov.uk/records/HUN
+local-authority-eng,SCA,NMD,,,South Cambridgeshire,https://local-authority-eng.register.gov.uk/records/SCA
+local-authority-eng,ALL,NMD,,,Allerdale,https://local-authority-eng.register.gov.uk/records/ALL
+local-authority-eng,BAR,NMD,,,Barrow-in-Furness,https://local-authority-eng.register.gov.uk/records/BAR
+local-authority-eng,CAR,NMD,,,Carlisle,https://local-authority-eng.register.gov.uk/records/CAR
+local-authority-eng,COP,NMD,,,Copeland,https://local-authority-eng.register.gov.uk/records/COP
+local-authority-eng,EDN,NMD,,,Eden,https://local-authority-eng.register.gov.uk/records/EDN
+local-authority-eng,SLA,NMD,,,South Lakeland,https://local-authority-eng.register.gov.uk/records/SLA
+local-authority-eng,AMB,NMD,,,Amber Valley,https://local-authority-eng.register.gov.uk/records/AMB
+local-authority-eng,BOS,NMD,,,Bolsover,https://local-authority-eng.register.gov.uk/records/BOS
+local-authority-eng,CHS,NMD,,,Chesterfield,https://local-authority-eng.register.gov.uk/records/CHS
+local-authority-eng,DEB,NMD,,,Derbyshire Dales,https://local-authority-eng.register.gov.uk/records/DEB
+local-authority-eng,ERE,NMD,,,Erewash,https://local-authority-eng.register.gov.uk/records/ERE
+local-authority-eng,HIG,NMD,,,High Peak,https://local-authority-eng.register.gov.uk/records/HIG
+local-authority-eng,NED,NMD,,,North East Derbyshire,https://local-authority-eng.register.gov.uk/records/NED
+local-authority-eng,SDE,NMD,,,South Derbyshire,https://local-authority-eng.register.gov.uk/records/SDE
+local-authority-eng,EDE,NMD,,,East Devon,https://local-authority-eng.register.gov.uk/records/EDE
+local-authority-eng,EXE,NMD,,,Exeter,https://local-authority-eng.register.gov.uk/records/EXE
+local-authority-eng,MDE,NMD,,,Mid Devon,https://local-authority-eng.register.gov.uk/records/MDE
+local-authority-eng,NDE,NMD,,,North Devon,https://local-authority-eng.register.gov.uk/records/NDE
+local-authority-eng,SHA,NMD,,,South Hams,https://local-authority-eng.register.gov.uk/records/SHA
+local-authority-eng,TEI,NMD,,,Teignbridge,https://local-authority-eng.register.gov.uk/records/TEI
+local-authority-eng,TOR,NMD,,,Torridge,https://local-authority-eng.register.gov.uk/records/TOR
+local-authority-eng,WDE,NMD,,,West Devon,https://local-authority-eng.register.gov.uk/records/WDE
+local-authority-eng,CHC,NMD,,2019-03-31,Christchurch,https://local-authority-eng.register.gov.uk/records/CHC
+local-authority-eng,EDO,NMD,,2019-03-31,East Dorset,https://local-authority-eng.register.gov.uk/records/EDO
+local-authority-eng,NDO,NMD,,2019-03-31,North Dorset,https://local-authority-eng.register.gov.uk/records/NDO
+local-authority-eng,PUR,NMD,,2019-03-31,Purbeck,https://local-authority-eng.register.gov.uk/records/PUR
+local-authority-eng,WDO,NMD,,2019-03-31,West Dorset,https://local-authority-eng.register.gov.uk/records/WDO
+local-authority-eng,WEY,NMD,,2019-03-31,Weymouth and Portland,https://local-authority-eng.register.gov.uk/records/WEY
+local-authority-eng,EAS,NMD,,,Eastbourne,https://local-authority-eng.register.gov.uk/records/EAS
+local-authority-eng,HAS,NMD,,,Hastings,https://local-authority-eng.register.gov.uk/records/HAS
+local-authority-eng,LEE,NMD,,,Lewes,https://local-authority-eng.register.gov.uk/records/LEE
+local-authority-eng,ROH,NMD,,,Rother,https://local-authority-eng.register.gov.uk/records/ROH
+local-authority-eng,WEA,NMD,,,Wealden,https://local-authority-eng.register.gov.uk/records/WEA
+local-authority-eng,BAI,NMD,,,Basildon,https://local-authority-eng.register.gov.uk/records/BAI
+local-authority-eng,BRA,NMD,,,Braintree,https://local-authority-eng.register.gov.uk/records/BRA
+local-authority-eng,BRW,NMD,,,Brentwood,https://local-authority-eng.register.gov.uk/records/BRW
+local-authority-eng,CAS,NMD,,,Castle Point,https://local-authority-eng.register.gov.uk/records/CAS
+local-authority-eng,CHL,NMD,,,Chelmsford,https://local-authority-eng.register.gov.uk/records/CHL
+local-authority-eng,COL,NMD,,,Colchester,https://local-authority-eng.register.gov.uk/records/COL
+local-authority-eng,EPP,NMD,,,Epping Forest,https://local-authority-eng.register.gov.uk/records/EPP
+local-authority-eng,HAR,NMD,,,Harlow,https://local-authority-eng.register.gov.uk/records/HAR
+local-authority-eng,MAL,NMD,,,Maldon,https://local-authority-eng.register.gov.uk/records/MAL
+local-authority-eng,ROC,NMD,,,Rochford,https://local-authority-eng.register.gov.uk/records/ROC
+local-authority-eng,TEN,NMD,,,Tendring,https://local-authority-eng.register.gov.uk/records/TEN
+local-authority-eng,UTT,NMD,,,Uttlesford,https://local-authority-eng.register.gov.uk/records/UTT
+local-authority-eng,CHT,NMD,,,Cheltenham,https://local-authority-eng.register.gov.uk/records/CHT
+local-authority-eng,COT,NMD,,,Cotswold,https://local-authority-eng.register.gov.uk/records/COT
+local-authority-eng,FOE,NMD,,,Forest of Dean,https://local-authority-eng.register.gov.uk/records/FOE
+local-authority-eng,GLO,NMD,,,Gloucester,https://local-authority-eng.register.gov.uk/records/GLO
+local-authority-eng,STO,NMD,,,Stroud,https://local-authority-eng.register.gov.uk/records/STO
+local-authority-eng,TEW,NMD,,,Tewkesbury,https://local-authority-eng.register.gov.uk/records/TEW
+local-authority-eng,BAN,NMD,,,Basingstoke and Deane,https://local-authority-eng.register.gov.uk/records/BAN
+local-authority-eng,EHA,NMD,,,East Hampshire,https://local-authority-eng.register.gov.uk/records/EHA
+local-authority-eng,EAT,NMD,,,Eastleigh,https://local-authority-eng.register.gov.uk/records/EAT
+local-authority-eng,FAR,NMD,,,Fareham,https://local-authority-eng.register.gov.uk/records/FAR
+local-authority-eng,GOS,NMD,,,Gosport,https://local-authority-eng.register.gov.uk/records/GOS
+local-authority-eng,HAT,NMD,,,Hart,https://local-authority-eng.register.gov.uk/records/HAT
+local-authority-eng,HAA,NMD,,,Havant,https://local-authority-eng.register.gov.uk/records/HAA
+local-authority-eng,NEW,NMD,,,New Forest,https://local-authority-eng.register.gov.uk/records/NEW
+local-authority-eng,RUH,NMD,,,Rushmoor,https://local-authority-eng.register.gov.uk/records/RUH
+local-authority-eng,TES,NMD,,,Test Valley,https://local-authority-eng.register.gov.uk/records/TES
+local-authority-eng,WIN,NMD,,,Winchester,https://local-authority-eng.register.gov.uk/records/WIN
+local-authority-eng,BRX,NMD,,,Broxbourne,https://local-authority-eng.register.gov.uk/records/BRX
+local-authority-eng,DAC,NMD,,,Dacorum,https://local-authority-eng.register.gov.uk/records/DAC
+local-authority-eng,HER,NMD,,,Hertsmere,https://local-authority-eng.register.gov.uk/records/HER
+local-authority-eng,NHE,NMD,,,North Hertfordshire,https://local-authority-eng.register.gov.uk/records/NHE
+local-authority-eng,THE,NMD,,,Three Rivers,https://local-authority-eng.register.gov.uk/records/THE
+local-authority-eng,WAT,NMD,,,Watford,https://local-authority-eng.register.gov.uk/records/WAT
+local-authority-eng,ASF,NMD,,,Ashford,https://local-authority-eng.register.gov.uk/records/ASF
+local-authority-eng,CAT,NMD,,,Canterbury,https://local-authority-eng.register.gov.uk/records/CAT
+local-authority-eng,DAR,NMD,,,Dartford,https://local-authority-eng.register.gov.uk/records/DAR
+local-authority-eng,DOV,NMD,,,Dover,https://local-authority-eng.register.gov.uk/records/DOV
+local-authority-eng,GRA,NMD,,,Gravesham,https://local-authority-eng.register.gov.uk/records/GRA
+local-authority-eng,MAI,NMD,,,Maidstone,https://local-authority-eng.register.gov.uk/records/MAI
+local-authority-eng,SEV,NMD,,,Sevenoaks,https://local-authority-eng.register.gov.uk/records/SEV
+local-authority-eng,SHE,NMD,,,Shepway,https://local-authority-eng.register.gov.uk/records/SHE
+local-authority-eng,SWL,NMD,,,Swale,https://local-authority-eng.register.gov.uk/records/SWL
+local-authority-eng,THA,NMD,,,Thanet,https://local-authority-eng.register.gov.uk/records/THA
+local-authority-eng,TON,NMD,,,Tonbridge and Malling,https://local-authority-eng.register.gov.uk/records/TON
+local-authority-eng,TUN,NMD,,,Tunbridge Wells,https://local-authority-eng.register.gov.uk/records/TUN
+local-authority-eng,BUN,NMD,,,Burnley,https://local-authority-eng.register.gov.uk/records/BUN
+local-authority-eng,CHO,NMD,,,Chorley,https://local-authority-eng.register.gov.uk/records/CHO
+local-authority-eng,FYL,NMD,,,Fylde,https://local-authority-eng.register.gov.uk/records/FYL
+local-authority-eng,HYN,NMD,,,Hyndburn,https://local-authority-eng.register.gov.uk/records/HYN
+local-authority-eng,LAC,NMD,,,Lancaster,https://local-authority-eng.register.gov.uk/records/LAC
+local-authority-eng,PEN,NMD,,,Pendle,https://local-authority-eng.register.gov.uk/records/PEN
+local-authority-eng,PRE,NMD,,,Preston,https://local-authority-eng.register.gov.uk/records/PRE
+local-authority-eng,RIB,NMD,,,Ribble Valley,https://local-authority-eng.register.gov.uk/records/RIB
+local-authority-eng,ROS,NMD,,,Rossendale,https://local-authority-eng.register.gov.uk/records/ROS
+local-authority-eng,SRI,NMD,,,South Ribble,https://local-authority-eng.register.gov.uk/records/SRI
+local-authority-eng,WLA,NMD,,,West Lancashire,https://local-authority-eng.register.gov.uk/records/WLA
+local-authority-eng,WYR,NMD,,,Wyre,https://local-authority-eng.register.gov.uk/records/WYR
+local-authority-eng,BLA,NMD,,,Blaby,https://local-authority-eng.register.gov.uk/records/BLA
+local-authority-eng,CHA,NMD,,,Charnwood,https://local-authority-eng.register.gov.uk/records/CHA
+local-authority-eng,HAO,NMD,,,Harborough,https://local-authority-eng.register.gov.uk/records/HAO
+local-authority-eng,HIN,NMD,,,Hinckley and Bosworth,https://local-authority-eng.register.gov.uk/records/HIN
+local-authority-eng,MEL,NMD,,,Melton,https://local-authority-eng.register.gov.uk/records/MEL
+local-authority-eng,NWL,NMD,,,North West Leicestershire,https://local-authority-eng.register.gov.uk/records/NWL
+local-authority-eng,OAD,NMD,,,Oadby and Wigston,https://local-authority-eng.register.gov.uk/records/OAD
+local-authority-eng,BOT,NMD,,,Boston,https://local-authority-eng.register.gov.uk/records/BOT
+local-authority-eng,ELI,NMD,,,East Lindsey,https://local-authority-eng.register.gov.uk/records/ELI
+local-authority-eng,LIC,NMD,,,Lincoln,https://local-authority-eng.register.gov.uk/records/LIC
+local-authority-eng,NKE,NMD,,,North Kesteven,https://local-authority-eng.register.gov.uk/records/NKE
+local-authority-eng,SHO,NMD,,,South Holland,https://local-authority-eng.register.gov.uk/records/SHO
+local-authority-eng,SKE,NMD,,,South Kesteven,https://local-authority-eng.register.gov.uk/records/SKE
+local-authority-eng,WLI,NMD,,,West Lindsey,https://local-authority-eng.register.gov.uk/records/WLI
+local-authority-eng,BRE,NMD,,,Breckland,https://local-authority-eng.register.gov.uk/records/BRE
+local-authority-eng,BRO,NMD,,,Broadland,https://local-authority-eng.register.gov.uk/records/BRO
+local-authority-eng,GRY,NMD,,,Great Yarmouth,https://local-authority-eng.register.gov.uk/records/GRY
+local-authority-eng,KIN,NMD,,,King���s Lynn and West Norfolk,https://local-authority-eng.register.gov.uk/records/KIN
+local-authority-eng,NNO,NMD,,,North Norfolk,https://local-authority-eng.register.gov.uk/records/NNO
+local-authority-eng,NOW,NMD,,,Norwich,https://local-authority-eng.register.gov.uk/records/NOW
+local-authority-eng,SNO,NMD,,,South Norfolk,https://local-authority-eng.register.gov.uk/records/SNO
+local-authority-eng,COR,NMD,,,Corby,https://local-authority-eng.register.gov.uk/records/COR
+local-authority-eng,DAV,NMD,,,Daventry,https://local-authority-eng.register.gov.uk/records/DAV
+local-authority-eng,ENO,NMD,,,East Northamptonshire,https://local-authority-eng.register.gov.uk/records/ENO
+local-authority-eng,KET,NMD,,,Kettering,https://local-authority-eng.register.gov.uk/records/KET
+local-authority-eng,NOR,NMD,,,Northampton,https://local-authority-eng.register.gov.uk/records/NOR
+local-authority-eng,SNR,NMD,,,South Northamptonshire,https://local-authority-eng.register.gov.uk/records/SNR
+local-authority-eng,WEL,NMD,,,Wellingborough,https://local-authority-eng.register.gov.uk/records/WEL
+local-authority-eng,CRA,NMD,,,Craven,https://local-authority-eng.register.gov.uk/records/CRA
+local-authority-eng,HAE,NMD,,,Hambleton,https://local-authority-eng.register.gov.uk/records/HAE
+local-authority-eng,HAG,NMD,,,Harrogate,https://local-authority-eng.register.gov.uk/records/HAG
+local-authority-eng,RIH,NMD,,,Richmondshire,https://local-authority-eng.register.gov.uk/records/RIH
+local-authority-eng,RYE,NMD,,,Ryedale,https://local-authority-eng.register.gov.uk/records/RYE
+local-authority-eng,SCE,NMD,,,Scarborough,https://local-authority-eng.register.gov.uk/records/SCE
+local-authority-eng,SEL,NMD,,,Selby,https://local-authority-eng.register.gov.uk/records/SEL
+local-authority-eng,ASH,NMD,,,Ashfield,https://local-authority-eng.register.gov.uk/records/ASH
+local-authority-eng,BAE,NMD,,,Bassetlaw,https://local-authority-eng.register.gov.uk/records/BAE
+local-authority-eng,BRT,NMD,,,Broxtowe,https://local-authority-eng.register.gov.uk/records/BRT
+local-authority-eng,GED,NMD,,,Gedling,https://local-authority-eng.register.gov.uk/records/GED
+local-authority-eng,MAS,NMD,,,Mansfield,https://local-authority-eng.register.gov.uk/records/MAS
+local-authority-eng,NEA,NMD,,,Newark and Sherwood,https://local-authority-eng.register.gov.uk/records/NEA
+local-authority-eng,RUS,NMD,,,Rushcliffe,https://local-authority-eng.register.gov.uk/records/RUS
+local-authority-eng,CHR,NMD,,,Cherwell,https://local-authority-eng.register.gov.uk/records/CHR
+local-authority-eng,OXO,NMD,,,Oxford,https://local-authority-eng.register.gov.uk/records/OXO
+local-authority-eng,SOX,NMD,,,South Oxfordshire,https://local-authority-eng.register.gov.uk/records/SOX
+local-authority-eng,VAL,NMD,,,Vale of White Horse,https://local-authority-eng.register.gov.uk/records/VAL
+local-authority-eng,WOX,NMD,,,West Oxfordshire,https://local-authority-eng.register.gov.uk/records/WOX
+local-authority-eng,MEN,NMD,,,Mendip,https://local-authority-eng.register.gov.uk/records/MEN
+local-authority-eng,SEG,NMD,,,Sedgemoor,https://local-authority-eng.register.gov.uk/records/SEG
+local-authority-eng,SSO,NMD,,,South Somerset,https://local-authority-eng.register.gov.uk/records/SSO
+local-authority-eng,TAU,NMD,,2019-03-31,Taunton Deane,https://local-authority-eng.register.gov.uk/records/TAU
+local-authority-eng,WSO,NMD,,2019-03-31,West Somerset,https://local-authority-eng.register.gov.uk/records/WSO
+local-authority-eng,CAN,NMD,,,Cannock Chase,https://local-authority-eng.register.gov.uk/records/CAN
+local-authority-eng,EST,NMD,,,East Staffordshire,https://local-authority-eng.register.gov.uk/records/EST
+local-authority-eng,LIF,NMD,,,Lichfield,https://local-authority-eng.register.gov.uk/records/LIF
+local-authority-eng,NEC,NMD,,,Newcastle-under-Lyme,https://local-authority-eng.register.gov.uk/records/NEC
+local-authority-eng,SST,NMD,,,South Staffordshire,https://local-authority-eng.register.gov.uk/records/SST
+local-authority-eng,STA,NMD,,,Stafford,https://local-authority-eng.register.gov.uk/records/STA
+local-authority-eng,STF,NMD,,,Staffordshire Moorlands,https://local-authority-eng.register.gov.uk/records/STF
+local-authority-eng,TAW,NMD,,,Tamworth,https://local-authority-eng.register.gov.uk/records/TAW
+local-authority-eng,BAB,NMD,,,Babergh,https://local-authority-eng.register.gov.uk/records/BAB
+local-authority-eng,FOR,NMD,,2019-03-31,Forest Heath,https://local-authority-eng.register.gov.uk/records/FOR
+local-authority-eng,IPS,NMD,,,Ipswich,https://local-authority-eng.register.gov.uk/records/IPS
+local-authority-eng,MSU,NMD,,,Mid Suffolk,https://local-authority-eng.register.gov.uk/records/MSU
+local-authority-eng,SED,NMD,,2019-03-31,St Edmundsbury,https://local-authority-eng.register.gov.uk/records/SED
+local-authority-eng,SUF,NMD,,2019-03-31,Suffolk Coastal,https://local-authority-eng.register.gov.uk/records/SUF
+local-authority-eng,WAV,NMD,,2019-03-31,Waveney,https://local-authority-eng.register.gov.uk/records/WAV
+local-authority-eng,ELM,NMD,,,Elmbridge,https://local-authority-eng.register.gov.uk/records/ELM
+local-authority-eng,EPS,NMD,,,Epsom and Ewell,https://local-authority-eng.register.gov.uk/records/EPS
+local-authority-eng,GRT,NMD,,,Guildford,https://local-authority-eng.register.gov.uk/records/GRT
+local-authority-eng,MOL,NMD,,,Mole Valley,https://local-authority-eng.register.gov.uk/records/MOL
+local-authority-eng,REI,NMD,,,Reigate and Banstead,https://local-authority-eng.register.gov.uk/records/REI
+local-authority-eng,RUN,NMD,,,Runnymede,https://local-authority-eng.register.gov.uk/records/RUN
+local-authority-eng,SPE,NMD,,,Spelthorne,https://local-authority-eng.register.gov.uk/records/SPE
+local-authority-eng,SUR,NMD,,,Surrey Heath,https://local-authority-eng.register.gov.uk/records/SUR
+local-authority-eng,TAN,NMD,,,Tandridge,https://local-authority-eng.register.gov.uk/records/TAN
+local-authority-eng,WAE,NMD,,,Waverley,https://local-authority-eng.register.gov.uk/records/WAE
+local-authority-eng,WOI,NMD,,,Woking,https://local-authority-eng.register.gov.uk/records/WOI
+local-authority-eng,NWA,NMD,,,North Warwickshire,https://local-authority-eng.register.gov.uk/records/NWA
+local-authority-eng,NUN,NMD,,,Nuneaton and Bedworth,https://local-authority-eng.register.gov.uk/records/NUN
+local-authority-eng,RUG,NMD,,,Rugby,https://local-authority-eng.register.gov.uk/records/RUG
+local-authority-eng,STR,NMD,,,Stratford-on-Avon,https://local-authority-eng.register.gov.uk/records/STR
+local-authority-eng,WAW,NMD,,,Warwick,https://local-authority-eng.register.gov.uk/records/WAW
+local-authority-eng,ADU,NMD,,,Adur,https://local-authority-eng.register.gov.uk/records/ADU
+local-authority-eng,ARU,NMD,,,Arun,https://local-authority-eng.register.gov.uk/records/ARU
+local-authority-eng,CHI,NMD,1974-04-01,,Chichester,https://local-authority-eng.register.gov.uk/records/CHI
+local-authority-eng,CRW,NMD,1974-04-01,,Crawley,https://local-authority-eng.register.gov.uk/records/CRW
+local-authority-eng,HOR,NMD,1974-04-01,,Horsham,https://local-authority-eng.register.gov.uk/records/HOR
+local-authority-eng,MSS,NMD,1974-04-01,,Mid Sussex,https://local-authority-eng.register.gov.uk/records/MSS
+local-authority-eng,WOT,NMD,1905-06-25,,Worthing,https://local-authority-eng.register.gov.uk/records/WOT
+local-authority-eng,BRM,NMD,,,Bromsgrove,https://local-authority-eng.register.gov.uk/records/BRM
+local-authority-eng,MAV,NMD,,,Malvern Hills,https://local-authority-eng.register.gov.uk/records/MAV
+local-authority-eng,RED,NMD,,,Redditch,https://local-authority-eng.register.gov.uk/records/RED
+local-authority-eng,WOC,NMD,,,Worcester,https://local-authority-eng.register.gov.uk/records/WOC
+local-authority-eng,WYC,NMD,,,Wychavon,https://local-authority-eng.register.gov.uk/records/WYC
+local-authority-eng,WYE,NMD,,,Wyre Forest,https://local-authority-eng.register.gov.uk/records/WYE
+local-authority-eng,SAL,NMD,,,St Albans,https://local-authority-eng.register.gov.uk/records/SAL
+local-authority-eng,WEW,NMD,,,Welwyn Hatfield,https://local-authority-eng.register.gov.uk/records/WEW
+local-authority-eng,EHE,NMD,,,East Hertfordshire,https://local-authority-eng.register.gov.uk/records/EHE
+local-authority-eng,STV,NMD,,,Stevenage,https://local-authority-eng.register.gov.uk/records/STV
+local-authority-eng,BOL,MD,1974-04-01,,Bolton,https://local-authority-eng.register.gov.uk/records/BOL
+local-authority-eng,BUR,MD,1974-04-01,,Bury,https://local-authority-eng.register.gov.uk/records/BUR
+local-authority-eng,MAN,MD,1974-04-01,,Manchester,https://local-authority-eng.register.gov.uk/records/MAN
+local-authority-eng,OLD,MD,1905-06-07,,Oldham,https://local-authority-eng.register.gov.uk/records/OLD
+local-authority-eng,RCH,MD,1905-05-27,,Rochdale,https://local-authority-eng.register.gov.uk/records/RCH
+local-authority-eng,SLF,MD,1905-05-27,,Salford,https://local-authority-eng.register.gov.uk/records/SLF
+local-authority-eng,SKP,MD,1905-05-27,,Stockport,https://local-authority-eng.register.gov.uk/records/SKP
+local-authority-eng,TAM,MD,1974-04-01,,Tameside,https://local-authority-eng.register.gov.uk/records/TAM
+local-authority-eng,TRF,MD,1974-04-01,,Trafford,https://local-authority-eng.register.gov.uk/records/TRF
+local-authority-eng,WGN,MD,1974-04-01,,Wigan,https://local-authority-eng.register.gov.uk/records/WGN
+local-authority-eng,KWL,MD,1974-04-01,,Knowsley,https://local-authority-eng.register.gov.uk/records/KWL
+local-authority-eng,LIV,MD,1905-06-08,,Liverpool,https://local-authority-eng.register.gov.uk/records/LIV
+local-authority-eng,SHN,MD,1905-06-08,,St. Helens,https://local-authority-eng.register.gov.uk/records/SHN
+local-authority-eng,SFT,MD,1905-06-08,,Sefton,https://local-authority-eng.register.gov.uk/records/SFT
+local-authority-eng,WRL,MD,1974-04-01,,Wirral,https://local-authority-eng.register.gov.uk/records/WRL
+local-authority-eng,BNS,MD,1974-04-01,,Barnsley,https://local-authority-eng.register.gov.uk/records/BNS
+local-authority-eng,DNC,MD,1974-04-01,,Doncaster,https://local-authority-eng.register.gov.uk/records/DNC
+local-authority-eng,ROT,MD,1905-05-27,,Rotherham,https://local-authority-eng.register.gov.uk/records/ROT
+local-authority-eng,SHF,MD,1905-06-08,,Sheffield,https://local-authority-eng.register.gov.uk/records/SHF
+local-authority-eng,NET,MD,1974-04-01,,Newcastle upon Tyne,https://local-authority-eng.register.gov.uk/records/NET
+local-authority-eng,NTY,MD,1974-04-01,,North Tyneside,https://local-authority-eng.register.gov.uk/records/NTY
+local-authority-eng,STY,MD,1974-04-01,,South Tyneside,https://local-authority-eng.register.gov.uk/records/STY
+local-authority-eng,SND,MD,1905-05-27,,Sunderland,https://local-authority-eng.register.gov.uk/records/SND
+local-authority-eng,BIR,MD,1986-07-01,,Birmingham,https://local-authority-eng.register.gov.uk/records/BIR
+local-authority-eng,COV,MD,1974-04-01,,Coventry,https://local-authority-eng.register.gov.uk/records/COV
+local-authority-eng,DUD,MD,1974-04-01,,Dudley,https://local-authority-eng.register.gov.uk/records/DUD
+local-authority-eng,SAW,MD,1905-06-07,,Sandwell,https://local-authority-eng.register.gov.uk/records/SAW
+local-authority-eng,SOL,MD,1905-05-27,,Solihull,https://local-authority-eng.register.gov.uk/records/SOL
+local-authority-eng,WLL,MD,1974-04-01,,Walsall,https://local-authority-eng.register.gov.uk/records/WLL
+local-authority-eng,WLV,MD,1974-04-01,,Wolverhampton,https://local-authority-eng.register.gov.uk/records/WLV
+local-authority-eng,BRD,MD,1974-04-01,,Bradford,https://local-authority-eng.register.gov.uk/records/BRD
+local-authority-eng,CLD,MD,1974-04-01,,Calderdale,https://local-authority-eng.register.gov.uk/records/CLD
+local-authority-eng,KIR,MD,1974-04-01,,Kirklees,https://local-authority-eng.register.gov.uk/records/KIR
+local-authority-eng,LDS,MD,1905-06-08,,Leeds,https://local-authority-eng.register.gov.uk/records/LDS
+local-authority-eng,WKF,MD,1974-04-01,,Wakefield,https://local-authority-eng.register.gov.uk/records/WKF
+local-authority-eng,GAT,MD,1974-04-01,,Gateshead,https://local-authority-eng.register.gov.uk/records/GAT
+local-authority-eng,LND,CC,1905-06-28,,City of London,https://local-authority-eng.register.gov.uk/records/LND
+local-authority-eng,BDG,LBO,,,Barking and Dagenham,https://local-authority-eng.register.gov.uk/records/BDG
+local-authority-eng,BNE,LBO,,,Barnet,https://local-authority-eng.register.gov.uk/records/BNE
+local-authority-eng,BEX,LBO,,,Bexley,https://local-authority-eng.register.gov.uk/records/BEX
+local-authority-eng,BEN,LBO,,,Brent,https://local-authority-eng.register.gov.uk/records/BEN
+local-authority-eng,BRY,LBO,,,Bromley,https://local-authority-eng.register.gov.uk/records/BRY
+local-authority-eng,CMD,LBO,,,Camden,https://local-authority-eng.register.gov.uk/records/CMD
+local-authority-eng,CRY,LBO,,,Croydon,https://local-authority-eng.register.gov.uk/records/CRY
+local-authority-eng,EAL,LBO,,,Ealing,https://local-authority-eng.register.gov.uk/records/EAL
+local-authority-eng,ENF,LBO,,,Enfield,https://local-authority-eng.register.gov.uk/records/ENF
+local-authority-eng,GRE,LBO,,,Greenwich,https://local-authority-eng.register.gov.uk/records/GRE
+local-authority-eng,HCK,LBO,,,Hackney,https://local-authority-eng.register.gov.uk/records/HCK
+local-authority-eng,HMF,LBO,,,Hammersmith and Fulham,https://local-authority-eng.register.gov.uk/records/HMF
+local-authority-eng,HRY,LBO,,,Haringey,https://local-authority-eng.register.gov.uk/records/HRY
+local-authority-eng,HRW,LBO,,,Harrow,https://local-authority-eng.register.gov.uk/records/HRW
+local-authority-eng,HAV,LBO,,,Havering,https://local-authority-eng.register.gov.uk/records/HAV
+local-authority-eng,HIL,LBO,,,Hillingdon,https://local-authority-eng.register.gov.uk/records/HIL
+local-authority-eng,HNS,LBO,,,Hounslow,https://local-authority-eng.register.gov.uk/records/HNS
+local-authority-eng,ISL,LBO,,,Islington,https://local-authority-eng.register.gov.uk/records/ISL
+local-authority-eng,KEC,LBO,,,Kensington and Chelsea,https://local-authority-eng.register.gov.uk/records/KEC
+local-authority-eng,KTT,LBO,,,Kingston upon Thames,https://local-authority-eng.register.gov.uk/records/KTT
+local-authority-eng,LBH,LBO,,,Lambeth,https://local-authority-eng.register.gov.uk/records/LBH
+local-authority-eng,LEW,LBO,,,Lewisham,https://local-authority-eng.register.gov.uk/records/LEW
+local-authority-eng,MRT,LBO,,,Merton,https://local-authority-eng.register.gov.uk/records/MRT
+local-authority-eng,NWM,LBO,,,Newham,https://local-authority-eng.register.gov.uk/records/NWM
+local-authority-eng,RDB,LBO,,,Redbridge,https://local-authority-eng.register.gov.uk/records/RDB
+local-authority-eng,RIC,LBO,,,Richmond upon Thames,https://local-authority-eng.register.gov.uk/records/RIC
+local-authority-eng,SWK,LBO,,,Southwark,https://local-authority-eng.register.gov.uk/records/SWK
+local-authority-eng,STN,LBO,,,Sutton,https://local-authority-eng.register.gov.uk/records/STN
+local-authority-eng,TWH,LBO,,,Tower Hamlets,https://local-authority-eng.register.gov.uk/records/TWH
+local-authority-eng,WFT,LBO,,,Waltham Forest,https://local-authority-eng.register.gov.uk/records/WFT
+local-authority-eng,WND,LBO,,,Wandsworth,https://local-authority-eng.register.gov.uk/records/WND
+local-authority-eng,WSM,LBO,,,Westminster,https://local-authority-eng.register.gov.uk/records/WSM
+local-authority-eng,BKM,CTY,1905-06-19,,Buckinghamshire,https://local-authority-eng.register.gov.uk/records/BKM
+local-authority-eng,CAM,CTY,,,Cambridgeshire,https://local-authority-eng.register.gov.uk/records/CAM
+local-authority-eng,CMA,CTY,,,Cumbria,https://local-authority-eng.register.gov.uk/records/CMA
+local-authority-eng,DBY,CTY,,,Derbyshire,https://local-authority-eng.register.gov.uk/records/DBY
+local-authority-eng,DEV,CTY,,,Devon,https://local-authority-eng.register.gov.uk/records/DEV
+local-authority-eng,DOR,CTY,,2019-03-31,Dorset,https://local-authority-eng.register.gov.uk/records/DOR
+local-authority-eng,ESX,CTY,,,East Sussex,https://local-authority-eng.register.gov.uk/records/ESX
+local-authority-eng,ESS,CTY,,,Essex,https://local-authority-eng.register.gov.uk/records/ESS
+local-authority-eng,GLS,CTY,,,Gloucestershire,https://local-authority-eng.register.gov.uk/records/GLS
+local-authority-eng,HAM,CTY,,,Hampshire,https://local-authority-eng.register.gov.uk/records/HAM
+local-authority-eng,HRT,CTY,,,Hertfordshire,https://local-authority-eng.register.gov.uk/records/HRT
+local-authority-eng,KEN,CTY,,,Kent,https://local-authority-eng.register.gov.uk/records/KEN
+local-authority-eng,LAN,CTY,,,Lancashire,https://local-authority-eng.register.gov.uk/records/LAN
+local-authority-eng,LEC,CTY,,,Leicestershire,https://local-authority-eng.register.gov.uk/records/LEC
+local-authority-eng,LIN,CTY,,,Lincolnshire,https://local-authority-eng.register.gov.uk/records/LIN
+local-authority-eng,NFK,CTY,,,Norfolk,https://local-authority-eng.register.gov.uk/records/NFK
+local-authority-eng,NTH,CTY,,,Northamptonshire,https://local-authority-eng.register.gov.uk/records/NTH
+local-authority-eng,NYK,CTY,,,North Yorkshire,https://local-authority-eng.register.gov.uk/records/NYK
+local-authority-eng,NTT,CTY,,,Nottinghamshire,https://local-authority-eng.register.gov.uk/records/NTT
+local-authority-eng,OXF,CTY,,,Oxfordshire,https://local-authority-eng.register.gov.uk/records/OXF
+local-authority-eng,SOM,CTY,,,Somerset,https://local-authority-eng.register.gov.uk/records/SOM
+local-authority-eng,STS,CTY,,,Staffordshire,https://local-authority-eng.register.gov.uk/records/STS
+local-authority-eng,SFK,CTY,,,Suffolk,https://local-authority-eng.register.gov.uk/records/SFK
+local-authority-eng,SRY,CTY,,,Surrey,https://local-authority-eng.register.gov.uk/records/SRY
+local-authority-eng,WAR,CTY,,,Warwickshire,https://local-authority-eng.register.gov.uk/records/WAR
+local-authority-eng,WSX,CTY,,,West Sussex,https://local-authority-eng.register.gov.uk/records/WSX
+local-authority-eng,WOR,CTY,,,Worcestershire,https://local-authority-eng.register.gov.uk/records/WOR
+local-authority-eng,GLA,SRA,1905-06-22,,London,https://local-authority-eng.register.gov.uk/records/GLA
+local-authority-eng,GMCA,COMB,2014-04-01,,Greater Manchester,https://local-authority-eng.register.gov.uk/records/GMCA
+local-authority-eng,SCR,COMB,2014-04-01,,Sheffield City Region,https://local-authority-eng.register.gov.uk/records/SCR
+local-authority-eng,LCR,COMB,2014-04-01,,Liverpool,https://local-authority-eng.register.gov.uk/records/LCR
+local-authority-eng,TVCA,COMB,2014-04-01,,Tees Valley,https://local-authority-eng.register.gov.uk/records/TVCA
+local-authority-eng,WMCA,COMB,2014-04-01,,West Midlands,https://local-authority-eng.register.gov.uk/records/WMCA
+local-authority-nir,ANN,BGH,2015-04-01,,Antrim and Newtownabbey,https://local-authority-nir.register.gov.uk/records/ANN
+local-authority-nir,ABC,BGH,2015-04-01,,"Armagh, Banbridge and Craigavon",https://local-authority-nir.register.gov.uk/records/ABC
+local-authority-nir,BFS,CIT,,,Belfast,https://local-authority-nir.register.gov.uk/records/BFS
+local-authority-nir,CCG,BGH,2015-04-01,,Causeway Coast and Glens,https://local-authority-nir.register.gov.uk/records/CCG
+local-authority-nir,DRS,DIS,2015-04-01,,Derry and Strabane,https://local-authority-nir.register.gov.uk/records/DRS
+local-authority-nir,FMO,DIS,2015-04-01,,Fermanagh and Omagh,https://local-authority-nir.register.gov.uk/records/FMO
+local-authority-nir,LBC,CIT,2015-04-01,,Lisburn and Castlereagh,https://local-authority-nir.register.gov.uk/records/LBC
+local-authority-nir,MEA,BGH,2015-04-01,,Mid and East Antrim,https://local-authority-nir.register.gov.uk/records/MEA
+local-authority-nir,MUL,DIS,2015-04-01,,Mid Ulster,https://local-authority-nir.register.gov.uk/records/MUL
+local-authority-nir,NMD,DIS,2015-04-01,,"Newry, Mourne and Down",https://local-authority-nir.register.gov.uk/records/NMD
+local-authority-nir,AND,BGH,2015-04-01,,North Down and Ards,https://local-authority-nir.register.gov.uk/records/AND
+local-authority-sct,CLK,CA,1996-04-01,,Clackmannanshire,https://local-authority-sct.register.gov.uk/records/CLK
+local-authority-sct,DGY,CA,1996-04-01,,Dumfries & Galloway,https://local-authority-sct.register.gov.uk/records/DGY
+local-authority-sct,EAY,CA,1996-04-01,,East Ayrshire,https://local-authority-sct.register.gov.uk/records/EAY
+local-authority-sct,ELN,CA,1996-04-01,,East Lothian,https://local-authority-sct.register.gov.uk/records/ELN
+local-authority-sct,ERW,CA,1996-04-01,,East Renfrewshire,https://local-authority-sct.register.gov.uk/records/ERW
+local-authority-sct,ELS,CA,1996-04-01,,Eilean Siar14,https://local-authority-sct.register.gov.uk/records/ELS
+local-authority-sct,FAL,CA,1996-04-01,,Falkirk,https://local-authority-sct.register.gov.uk/records/FAL
+local-authority-sct,HLD,CA,1996-04-01,,Highland,https://local-authority-sct.register.gov.uk/records/HLD
+local-authority-sct,IVC,CA,1996-04-01,,Inverclyde,https://local-authority-sct.register.gov.uk/records/IVC
+local-authority-sct,MLN,CA,1996-04-01,,Midlothian,https://local-authority-sct.register.gov.uk/records/MLN
+local-authority-sct,MRY,CA,1996-04-01,,Moray,https://local-authority-sct.register.gov.uk/records/MRY
+local-authority-sct,NAY,CA,1996-04-01,,North Ayrshire,https://local-authority-sct.register.gov.uk/records/NAY
+local-authority-sct,ORK,CA,1996-04-01,,Orkney Islands,https://local-authority-sct.register.gov.uk/records/ORK
+local-authority-sct,SCB,CA,1996-04-01,,Scottish Borders,https://local-authority-sct.register.gov.uk/records/SCB
+local-authority-sct,ZET,CA,1996-04-01,,Shetland Islands,https://local-authority-sct.register.gov.uk/records/ZET
+local-authority-sct,SAY,CA,1996-04-01,,South Ayrshire,https://local-authority-sct.register.gov.uk/records/SAY
+local-authority-sct,SLK,CA,1996-04-01,,South Lanarkshire,https://local-authority-sct.register.gov.uk/records/SLK
+local-authority-sct,STG,CA,1996-04-01,,Stirling,https://local-authority-sct.register.gov.uk/records/STG
+local-authority-sct,ABE,CA,1996-04-01,,Aberdeen City,https://local-authority-sct.register.gov.uk/records/ABE
+local-authority-sct,ABD,CA,1996-04-01,,Aberdeenshire,https://local-authority-sct.register.gov.uk/records/ABD
+local-authority-sct,AGB,CA,1996-04-01,,Argyll & Bute,https://local-authority-sct.register.gov.uk/records/AGB
+local-authority-sct,EDH,CA,1996-04-01,,"Edinburgh, City of",https://local-authority-sct.register.gov.uk/records/EDH
+local-authority-sct,RFW,CA,1996-04-01,,Renfrewshire,https://local-authority-sct.register.gov.uk/records/RFW
+local-authority-sct,WDU,CA,1996-04-01,,West Dunbartonshire,https://local-authority-sct.register.gov.uk/records/WDU
+local-authority-sct,WLN,CA,1996-04-01,,West Lothian,https://local-authority-sct.register.gov.uk/records/WLN
+local-authority-sct,ANS,CA,1996-04-01,,Angus,https://local-authority-sct.register.gov.uk/records/ANS
+local-authority-sct,DND,CA,1996-04-01,,Dundee City,https://local-authority-sct.register.gov.uk/records/DND
+local-authority-sct,NLK,CA,1996-04-01,,North Lanarkshire,https://local-authority-sct.register.gov.uk/records/NLK
+local-authority-sct,EDU,CA,1996-04-01,,East Dunbartonshire,https://local-authority-sct.register.gov.uk/records/EDU
+local-authority-sct,GLG,CA,1996-04-01,,Glasgow City,https://local-authority-sct.register.gov.uk/records/GLG
+local-authority-sct,FIF,CA,1996-04-01,,Fife,https://local-authority-sct.register.gov.uk/records/FIF
+local-authority-sct,PKN,CA,1996-04-01,,Perth & Kinross,https://local-authority-sct.register.gov.uk/records/PKN
+principal-local-authority,AGY,WA,1996-04-01,,Isle of Anglesey,https://principal-local-authority.register.gov.uk/records/AGY
+principal-local-authority,GWN,WA,1996-04-01,,Gwynedd,https://principal-local-authority.register.gov.uk/records/GWN
+principal-local-authority,CWY,WA,1996-04-01,,Conwy,https://principal-local-authority.register.gov.uk/records/CWY
+principal-local-authority,DEN,WA,1996-04-01,,Denbighshire,https://principal-local-authority.register.gov.uk/records/DEN
+principal-local-authority,FLN,WA,1996-04-01,,Flintshire,https://principal-local-authority.register.gov.uk/records/FLN
+principal-local-authority,WRX,WA,1996-04-01,,Wrexham,https://principal-local-authority.register.gov.uk/records/WRX
+principal-local-authority,CGN,WA,1996-04-01,,Ceredigion,https://principal-local-authority.register.gov.uk/records/CGN
+principal-local-authority,PEM,WA,1996-04-01,,Pembrokeshire,https://principal-local-authority.register.gov.uk/records/PEM
+principal-local-authority,CMN,WA,1996-04-01,,Carmarthenshire,https://principal-local-authority.register.gov.uk/records/CMN
+principal-local-authority,SWA,WA,1996-04-01,,Swansea,https://principal-local-authority.register.gov.uk/records/SWA
+principal-local-authority,NTL,WA,1996-04-01,,Neath Port Talbot,https://principal-local-authority.register.gov.uk/records/NTL
+principal-local-authority,BGE,WA,1996-04-01,,Bridgend,https://principal-local-authority.register.gov.uk/records/BGE
+principal-local-authority,VGL,WA,1996-04-01,,The Vale of Glamorgan,https://principal-local-authority.register.gov.uk/records/VGL
+principal-local-authority,CRF,WA,1996-04-01,,Cardiff,https://principal-local-authority.register.gov.uk/records/CRF
+principal-local-authority,RCT,WA,1996-04-01,,Rhondda Cynon Taf,https://principal-local-authority.register.gov.uk/records/RCT
+principal-local-authority,CAY,WA,1996-04-01,,Caerphilly,https://principal-local-authority.register.gov.uk/records/CAY
+principal-local-authority,BGW,WA,1996-04-01,,Blaenau Gwent,https://principal-local-authority.register.gov.uk/records/BGW
+principal-local-authority,TOF,WA,1996-04-01,,Torfaen,https://principal-local-authority.register.gov.uk/records/TOF
+principal-local-authority,MON,WA,1996-04-01,,Monmouthshire,https://principal-local-authority.register.gov.uk/records/MON
+principal-local-authority,NWP,WA,1996-04-01,,Newport,https://principal-local-authority.register.gov.uk/records/NWP
+principal-local-authority,POW,WA,1996-04-01,,Powys,https://principal-local-authority.register.gov.uk/records/POW
+principal-local-authority,MTY,WA,1996-04-01,,Merthyr Tydfil,https://principal-local-authority.register.gov.uk/records/MTY
